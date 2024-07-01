@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "608b2cd1647655d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API usage.md",
+                "file": "File Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API usage.md",
+                "file": "File Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API usage.md"
+                "file": "File Structure.md"
               }
             }
           }
@@ -159,9 +171,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08a93990cc7294d8",
+  "active": "608b2cd1647655d3",
   "lastOpenFiles": [
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/utils.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/test_client.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/signals.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/mixins.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/login_manager.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/config.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/__init__.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/__about__.cpython-312.pyc",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/utils.py",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/test_client.py",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/signals.py",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/wtforms/locale/README.md",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/more.png",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/less.png",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/console.png",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask/sansio/README.md",
+    "Securitate9.md",
     "API usage.md",
-    "Securitate9.md"
+    "File Structure.md"
   ]
 }
