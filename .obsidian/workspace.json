@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Structure.md",
+                "file": "Securitate9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Structure.md",
+                "file": "Securitate9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Structure.md"
+                "file": "Securitate9.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "608b2cd1647655d3",
+  "active": "fa171cb7a1e099c4",
   "lastOpenFiles": [
+    "File Structure.md",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/utils.cpython-312.pyc",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/test_client.cpython-312.pyc",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/signals.cpython-312.pyc",
@@ -183,7 +183,6 @@
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/__pycache__/__about__.cpython-312.pyc",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/utils.py",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/test_client.py",
-    "my_ecommerce_site/venv/lib/python3.12/site-packages/flask_login/signals.py",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/wtforms/locale/README.md",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/more.png",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/less.png",
@@ -191,7 +190,6 @@
     "my_ecommerce_site/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
     "my_ecommerce_site/venv/lib/python3.12/site-packages/flask/sansio/README.md",
     "Securitate9.md",
-    "API usage.md",
-    "File Structure.md"
+    "API usage.md"
   ]
 }
